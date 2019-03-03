@@ -1,0 +1,23 @@
+﻿<Window x:Class="PLWPF.Accounts"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Accounts" Height="200" Width="400">
+	<Border Background="RosyBrown">
+	<ScrollViewer>
+			<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+				<Button Name="ButtonNannyAccount"   FontSize="30" Content="Nanny's Account"  Margin="10" Grid.Row="1" Click="ButtonNannyAccount_Click" />
+				<Button  Name="ButtonMotherAccount"  FontSize="30" Content="Mother's Account"   Margin="10" Grid.Row="2" Click="ButtonMotherAccount_Click"/>
+
+    </Grid>
+		</ScrollViewer>
+	</Border>
+</Window>

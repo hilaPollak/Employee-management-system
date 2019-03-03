@@ -1,0 +1,807 @@
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\App.g.cs
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\AddNanny.g.cs
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\AddNanny.baml
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\AddNanny.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\App.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\AddChild.g.cs
+C:\Users\hshamay\Desktop\New folder\PLWPF\obj\Debug\AddMother.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\AddChild.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\AddMother.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\AddNanny.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\App.g.cs
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\hshamay\Desktop\OLD\PLWPF\obj\Debug\AddContract.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\AddChild.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\AddContract.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\AddMother.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\AddNanny.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\DeleteChild.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\DeleteContract.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\DeleteMother.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\DeleteNanny.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\UpdateChild.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\UpdateContract.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\UpdateMother.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\UpdateNanny.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\App.g.cs
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\hshamay\Desktop\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\App.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\App.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Hour.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\BE.dll
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\BL.dll
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\DAL.dll
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\DS.dll
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\BE.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\BL.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\DAL.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\DS.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Hour.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\AccountNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\AccuntMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\EnterMothersAccount.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\EnterNaanysAccount.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\App.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\AccountNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\AccuntMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Hour.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\EnterMothersAccount.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Accounts\EnterNaanysAccount.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\BL.dll
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\BL.pdb
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\project\PLWPF\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\AccountNanny.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\AccuntMother.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\EnterMothersAccount.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\EnterNaanysAccount.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Table.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\App.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\AccountNanny.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\AccuntMother.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Hour.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\EnterMothersAccount.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Accounts\EnterNaanysAccount.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\Table.baml
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\hshamay\Desktop\project\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\App.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Hour.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\5_best_match.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\AccuntMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\CloseNannies.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\WantedNannies.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\5_best_match.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\AccuntMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\CloseNannies.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\PLWPF\obj\Debug\Accounts\mother\WantedNannies.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\5_best_match.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\AccuntMother.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\CloseNannies.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\WantedNannies.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\5_best_match.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\AccuntMother.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\CloseNannies.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Accounts\mother\WantedNannies.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\5_best_match.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\AccuntMother.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\CloseNannies.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\WantedNannies.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\App.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\BL.dll
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\DS.dll
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\BL.pdb
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\PLWPF\bin\Debug\DS.pdb
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\5_best_match.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\AccuntMother.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\CloseNannies.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Hour.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\Accounts\mother\WantedNannies.baml
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ofrenkel\Desktop\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\BL.dll
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\BL.pdb
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\0.1\PLWPF\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\5_best_match.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\AccuntMother.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\CloseNannies.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\WantedNannies.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\App.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\5_best_match.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\AccuntMother.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\CloseNannies.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Hour.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\Accounts\mother\WantedNannies.baml
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\hshamay\Desktop\0.1\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\5_best_match.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\AccuntMother.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\CloseNannies.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\WantedNannies.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\5_best_match.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\AccuntMother.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\CloseNannies.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Accounts\mother\WantedNannies.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\BL.dll
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\DS.dll
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\BL.pdb
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\p\PLWPF\bin\Debug\DS.pdb
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\5_best_match.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\Accounts.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\AccuntMother.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\AvaTable.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\AddChild.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\CloseNannies.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\AddContract.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Hour.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\AddMother.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\addNanny.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\ChildWindow.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\ContractWindow.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\DeleteChild.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\DeleteContract.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\DeleteMother.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\DeleteNanny.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\MotherWindow.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\NannyWindow.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\ShowChildren.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\ShowContracts.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\ShowMothers.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\ShowNannies.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\UpdateChild.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\UpdateContract.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\UpdateMother.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\UpdateNanny.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\WantedNannies.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\App.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\5_best_match.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\AccountNanny.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\Accounts.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\AccuntMother.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\AllChildrenOfNanny.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\AvaTable.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\BirthdaysOfChildren.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\ChildrensSpacialNeeds.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\AddChild.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\CloseNannies.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\AddContract.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Hour.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\MotherAllContract.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\MothersPhones.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\AddMother.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\NannyAllContracts.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\addNanny.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\ChildWindow.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\ContractWindow.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\DeleteChild.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\DeleteContract.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\DeleteMother.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\DeleteNanny.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\EnterMothersAccount.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\nanny\EnterNaanysAccount.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\MotherWindow.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\NannyWindow.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\ShowChildren.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\ShowContracts.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\ShowMothers.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\ShowNannies.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Child\UpdateChild.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Contract\UpdateContract.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Mother\UpdateMother.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Nanny\UpdateNanny.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Accounts\mother\WantedNannies.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Grouping.g.cs
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\Grouping.baml
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Grouping.g.cs
+C:\Users\ofrenkel\Desktop\p\PLWPF\obj\Debug\Grouping.baml
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Grouping.g.cs
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\PLWPF\obj\Debug\Grouping.baml
+C:\Users\שמאי\Desktop\פרוייקט\PLWPF\obj\Debug\App.baml

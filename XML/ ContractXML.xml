@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contracts>
+  <contract>
+    <Code>111</Code>
+    <NannyID>2433</NannyID>
+    <ChildID>1943</ChildID>
+    <IntroductoryMeeting>true</IntroductoryMeeting>
+    <SignContract>true</SignContract>
+    <SalaryForHour>17.441862012451704</SalaryForHour>
+    <SalaryForMonth>2000</SalaryForMonth>
+    <TypeOfPayment>month</TypeOfPayment>
+    <StartContract>2017-12-12T00:00:00</StartContract>
+    <EndContract>2018-12-12T00:00:00</EndContract>
+    <WorkHours>2,6,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/0001 00:00:00,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/0001 00:00:00,01/01/2000 16:10:00,01/01/2000 16:10:00,01/01/0001 00:00:00,01/01/2000 16:10:00,01/01/2000 16:10:00,01/01/0001 00:00:00</WorkHours>
+  </contract>
+  <contract>
+    <Code>112</Code>
+    <NannyID>2087</NannyID>
+    <ChildID>1800</ChildID>
+    <IntroductoryMeeting>true</IntroductoryMeeting>
+    <SignContract>true</SignContract>
+    <SalaryForHour>70</SalaryForHour>
+    <SalaryForMonth>5880</SalaryForMonth>
+    <TypeOfPayment>hour</TypeOfPayment>
+    <StartContract>2017-05-12T00:00:00</StartContract>
+    <EndContract>2018-12-12T00:00:00</EndContract>
+    <WorkHours>2,6,01/01/0001 00:00:00,01/01/2000 09:00:00,01/01/0001 00:00:00,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00,01/01/2000 16:00:00,01/01/0001 00:00:00,01/01/2000 16:00:00,01/01/2000 16:00:00,01/01/0001 00:00:00</WorkHours>
+  </contract>
+  <contract>
+    <Code>113</Code>
+    <NannyID>2087</NannyID>
+    <ChildID>9887</ChildID>
+    <IntroductoryMeeting>true</IntroductoryMeeting>
+    <SignContract>true</SignContract>
+    <SalaryForHour>70</SalaryForHour>
+    <SalaryForMonth>5880</SalaryForMonth>
+    <TypeOfPayment>hour</TypeOfPayment>
+    <StartContract>2017-12-12T00:00:00</StartContract>
+    <EndContract>2018-06-12T00:00:00</EndContract>
+    <WorkHours>2,6,01/01/0001 00:00:00,01/01/2000 09:00:00,01/01/0001 00:00:00,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00,01/01/2000 16:00:00,01/01/0001 00:00:00,01/01/2000 16:00:00,01/01/2000 16:00:00,01/01/0001 00:00:00</WorkHours>
+  </contract>
+  <contract>
+    <Code>114</Code>
+    <NannyID>167</NannyID>
+    <ChildID>1414</ChildID>
+    <IntroductoryMeeting>true</IntroductoryMeeting>
+    <SignContract>false</SignContract>
+    <SalaryForHour>40</SalaryForHour>
+    <SalaryForMonth>1600</SalaryForMonth>
+    <TypeOfPayment>hour</TypeOfPayment>
+    <StartContract>0001-01-01T00:00:00</StartContract>
+    <EndContract>0001-01-01T00:00:00</EndContract>
+    <WorkHours>2,6,01/01/0001 00:00:00,01/01/2000 08:00:00,01/01/0001 00:00:00,01/01/2000 10:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00,01/01/2000 13:00:00,01/01/0001 00:00:00,01/01/2000 15:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00</WorkHours>
+  </contract>
+  <contract>
+    <Code>115</Code>
+    <NannyID>2087</NannyID>
+    <ChildID>95955</ChildID>
+    <IntroductoryMeeting>false</IntroductoryMeeting>
+    <SignContract>false</SignContract>
+    <SalaryForHour>70</SalaryForHour>
+    <SalaryForMonth>2520</SalaryForMonth>
+    <TypeOfPayment>hour</TypeOfPayment>
+    <StartContract>0001-01-01T00:00:00</StartContract>
+    <EndContract>0001-01-01T00:00:00</EndContract>
+    <WorkHours>2,6,01/01/0001 00:00:00,01/01/2000 09:00:00,01/01/0001 00:00:00,01/01/2000 10:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00,01/01/2000 13:00:00,01/01/0001 00:00:00,01/01/2000 15:00:00,01/01/0001 00:00:00,01/01/0001 00:00:00</WorkHours>
+  </contract>
+</contracts>

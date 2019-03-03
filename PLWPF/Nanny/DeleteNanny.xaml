@@ -1,0 +1,69 @@
+﻿<Window x:Class="PLWPF.DeleteNanny"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Delete Nanny" Height="205.75" Width="300">
+    <Border Background="PapayaWhip">
+        <ScrollViewer >
+            <Grid x:Name="windowGrid" >
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid x:Name="NannyDetailsGrid" Grid.Row="0"  VerticalAlignment="Top" Margin="17,10,0,0" HorizontalAlignment="Left"  >
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!--id-->
+                    <Label Content="Id:" 
+				Grid.Column="0" 
+				   Style="{DynamicResource MyTextStyle}"
+				HorizontalAlignment="Left" 
+				Margin="3" Grid.Row="0" 
+				VerticalAlignment="Center"/>
+                    <ComboBox x:Name="idComboBox" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="86,4,0,7" 
+					 Grid.Row="0" 
+					 Text="{Binding Id, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" 
+					 VerticalAlignment="Center" 
+					 Width="120"
+					 SelectionChanged="idComboBox_SelectionChanged"/>
+
+                    <Label VerticalAlignment="Center" Style="{DynamicResource MyTextStyle}" Margin="-2,33,0,-25" HorizontalAlignment="Left" Content=" Password:" Grid.ColumnSpan="2"/>
+                    <PasswordBox x:Name="ThePassword" HorizontalAlignment="Left" Margin="86,2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+
+                    <Label x:Name="view" Style="{DynamicResource MyTextStyle}" Content="" Grid.Column="0" 
+				HorizontalAlignment="Left" 
+				Margin="3" 
+				Grid.Row="2" 
+				VerticalAlignment="Center"/>
+
+                </Grid>
+                <Button x:Name="delete_button" 
+				Content="delete"  
+				Click="delete_button_Click" 
+				Margin="50" 
+				Grid.Row="2"/>
+
+            </Grid>
+        </ScrollViewer >
+    </Border> 
+</Window>

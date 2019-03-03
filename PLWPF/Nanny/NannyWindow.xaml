@@ -1,0 +1,29 @@
+﻿<Window x:Class="PLWPF.NannyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="NannyWindow" Height="300" Width="300">
+	<Border Background="PapayaWhip">
+		<ScrollViewer >
+		 <Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="*"/>
+				<RowDefinition Height="*"/>
+				<RowDefinition Height="*"/>
+				<RowDefinition Height="*"/>
+			</Grid.RowDefinitions>
+
+			<Button Name="addNanny" Content="Create a new Nanny account" Margin="10" Grid.Row="0" Click="addNanny_Click"/>
+			<Button Name="upDateNanny" Content="Update your Nanny's account" Margin="10" Grid.Row="1" Click="upDateNanny_Click"/>
+			<Button Name="deleteNanny" Content="Delete your Nanny's account" Margin="10" Grid.Row="2" Click="deleteNanny_Click"/>
+			<Button Name="viewNanny" Content="View all Nanny" Margin="10" Grid.Row="3" Click="viewNanny_Click"/>
+
+
+		</Grid>
+		</ScrollViewer >
+	</Border>
+
+</Window>

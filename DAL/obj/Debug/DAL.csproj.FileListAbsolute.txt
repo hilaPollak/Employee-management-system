@@ -1,0 +1,129 @@
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\BE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\BE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\מה שאורית שלחה\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\מה שאורית שלחה\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\project\DAL\bin\Debug\DAL.dll
+C:\Users\שמאי\Desktop\project\DAL\bin\Debug\DAL.pdb
+C:\Users\שמאי\Desktop\project\DAL\bin\Debug\BE.dll
+C:\Users\שמאי\Desktop\project\DAL\bin\Debug\DS.dll
+C:\Users\שמאי\Desktop\project\DAL\bin\Debug\BE.pdb
+C:\Users\שמאי\Desktop\project\DAL\bin\Debug\DS.pdb
+C:\Users\שמאי\Desktop\project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\project\DAL\obj\Debug\DAL.dll
+C:\Users\שמאי\Desktop\project\DAL\obj\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\obj\Debug\DAL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\DAL\obj\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\New folder\DAL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\New folder\DAL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\New folder\DAL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\New folder\DAL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\New folder\DAL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\New folder\DAL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\New folder\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\New folder\DAL\obj\Debug\DAL.dll
+C:\Users\hshamay\Desktop\New folder\DAL\obj\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\OLD\DAL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\OLD\DAL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\OLD\DAL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\OLD\DAL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\OLD\DAL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\OLD\DAL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\OLD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\OLD\DAL\obj\Debug\DAL.dll
+C:\Users\hshamay\Desktop\OLD\DAL\obj\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\DAL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\DAL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\DAL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\DAL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\DAL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\DAL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\DAL\obj\Debug\DAL.dll
+C:\Users\hshamay\Desktop\DAL\obj\Debug\DAL.pdb
+C:\Users\שמאי\Desktop\פרוייקט\DAL\bin\Debug\DAL.dll
+C:\Users\שמאי\Desktop\פרוייקט\DAL\bin\Debug\DAL.pdb
+C:\Users\שמאי\Desktop\פרוייקט\DAL\bin\Debug\BE.dll
+C:\Users\שמאי\Desktop\פרוייקט\DAL\bin\Debug\DS.dll
+C:\Users\שמאי\Desktop\פרוייקט\DAL\bin\Debug\BE.pdb
+C:\Users\שמאי\Desktop\פרוייקט\DAL\bin\Debug\DS.pdb
+C:\Users\שמאי\Desktop\פרוייקט\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\פרוייקט\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\פרוייקט\DAL\obj\Debug\DAL.dll
+C:\Users\שמאי\Desktop\פרוייקט\DAL\obj\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\obj\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\DAL\obj\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\obj\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\DAL\obj\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\project\DAL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\project\DAL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\project\DAL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\project\DAL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\project\DAL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\project\DAL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\project\DAL\obj\Debug\DAL.dll
+C:\Users\hshamay\Desktop\project\DAL\obj\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\obj\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\DAL\obj\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\DAL\bin\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\DAL\bin\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\DAL\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\DAL\bin\Debug\DS.dll
+C:\Users\ofrenkel\Desktop\DAL\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\DAL\bin\Debug\DS.pdb
+C:\Users\ofrenkel\Desktop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ofrenkel\Desktop\DAL\obj\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\DAL\obj\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\0.1\DAL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\0.1\DAL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\0.1\DAL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\0.1\DAL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\0.1\DAL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\0.1\DAL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\0.1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\0.1\DAL\obj\Debug\DAL.dll
+C:\Users\hshamay\Desktop\0.1\DAL\obj\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\p\DAL\bin\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\p\DAL\bin\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\p\DAL\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\p\DAL\bin\Debug\DS.dll
+C:\Users\ofrenkel\Desktop\p\DAL\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\p\DAL\bin\Debug\DS.pdb
+C:\Users\ofrenkel\Desktop\p\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ofrenkel\Desktop\p\DAL\obj\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\p\DAL\obj\Debug\DAL.pdb

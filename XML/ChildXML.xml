@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<children>
+  <child>
+    <Id>1943</Id>
+    <IdMother>9097</IdMother>
+    <LastName />
+    <Name>Moshe</Name>
+    <DateOfBirth>2017-01-03T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>true</HasSpecialNeeds>
+    <SpecialNeeds>Allergic to peanuts</SpecialNeeds>
+  </child>
+  <child>
+    <Id>1800</Id>
+    <IdMother>8169</IdMother>
+    <LastName />
+    <Name>Dani</Name>
+    <DateOfBirth>2016-07-10T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>true</HasSpecialNeeds>
+    <SpecialNeeds>need to eat every 1 hour</SpecialNeeds>
+  </child>
+  <child>
+    <Id>1823</Id>
+    <IdMother>8169</IdMother>
+    <LastName />
+    <Name>Gadi</Name>
+    <DateOfBirth>2018-09-03T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>true</HasSpecialNeeds>
+    <SpecialNeeds>need love</SpecialNeeds>
+  </child>
+  <child>
+    <Id>9887</Id>
+    <IdMother>8169</IdMother>
+    <LastName />
+    <Name>David</Name>
+    <DateOfBirth>2016-12-12T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>false</HasSpecialNeeds>
+    <SpecialNeeds></SpecialNeeds>
+  </child>
+  <child>
+    <Id>2224</Id>
+    <IdMother>6655</IdMother>
+    <LastName />
+    <Name>David</Name>
+    <DateOfBirth>2015-07-10T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>false</HasSpecialNeeds>
+    <SpecialNeeds></SpecialNeeds>
+  </child>
+  <child>
+    <Id>1414</Id>
+    <IdMother>555</IdMother>
+    <LastName>cohen</LastName>
+    <Name>oren</Name>
+    <DateOfBirth>2016-01-01T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>true</HasSpecialNeeds>
+    <SpecialNeeds>can not be  with cat in the same room</SpecialNeeds>
+  </child>
+  <child>
+    <Id>95955</Id>
+    <IdMother>555</IdMother>
+    <LastName>cohen</LastName>
+    <Name>dana</Name>
+    <DateOfBirth>2015-01-01T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>true</HasSpecialNeeds>
+    <SpecialNeeds>cant eat choclate</SpecialNeeds>
+  </child>
+  <child>
+    <Id>147</Id>
+    <IdMother>787878</IdMother>
+    <LastName>peles</LastName>
+    <Name>tamar</Name>
+    <DateOfBirth>2017-02-02T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>true</HasSpecialNeeds>
+    <SpecialNeeds>sleep every 2 hour</SpecialNeeds>
+  </child>
+  <child>
+    <Id>2458</Id>
+    <IdMother>787878</IdMother>
+    <LastName>peles</LastName>
+    <Name>shaked</Name>
+    <DateOfBirth>2016-02-01T00:00:00</DateOfBirth>
+    <HasSpecialNeeds>true</HasSpecialNeeds>
+    <SpecialNeeds>elergic to milk</SpecialNeeds>
+  </child>
+</children>

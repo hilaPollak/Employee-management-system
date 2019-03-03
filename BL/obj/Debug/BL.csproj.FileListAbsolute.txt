@@ -1,0 +1,168 @@
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\BE\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\BE\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\project\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\BL.dll
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\BL.pdb
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\BE.dll
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\DAL.dll
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\DS.dll
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\BE.pdb
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\DAL.pdb
+C:\Users\שמאי\Desktop\project\BL\bin\Debug\DS.pdb
+C:\Users\שמאי\Desktop\project\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\project\BL\obj\Debug\BL.dll
+C:\Users\שמאי\Desktop\project\BL\obj\Debug\BL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\obj\Debug\BL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\חלק 1\BL\obj\Debug\BL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\obj\Debug\BL.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BL\obj\Debug\BL.pdb
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\BL.dll
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\BL.pdb
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\New folder\BL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\New folder\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\New folder\BL\obj\Debug\BL.dll
+C:\Users\hshamay\Desktop\New folder\BL\obj\Debug\BL.pdb
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\BL.dll
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\BL.pdb
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\OLD\BL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\OLD\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\OLD\BL\obj\Debug\BL.dll
+C:\Users\hshamay\Desktop\OLD\BL\obj\Debug\BL.pdb
+C:\Users\hshamay\Desktop\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\BL\obj\Debug\BL.dll
+C:\Users\hshamay\Desktop\BL\obj\Debug\BL.pdb
+C:\Users\hshamay\Desktop\BL\bin\Debug\BL.dll
+C:\Users\hshamay\Desktop\BL\bin\Debug\BL.pdb
+C:\Users\hshamay\Desktop\BL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\BL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\BL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\BL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\BL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\BL\bin\Debug\DS.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\BL.dll
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\BL.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\BE.dll
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\DAL.dll
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\DS.dll
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\BE.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\DAL.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\DS.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\פרוייקט\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\פרוייקט\BL\obj\Debug\BL.dll
+C:\Users\שמאי\Desktop\פרוייקט\BL\obj\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\obj\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\obj\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\obj\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BL\obj\Debug\BL.pdb
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\BL.dll
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\BL.pdb
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\project\BL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\project\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\project\BL\obj\Debug\BL.dll
+C:\Users\hshamay\Desktop\project\BL\obj\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\DAL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\DS.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\DAL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\bin\Debug\DS.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\obj\Debug\BL.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BL\obj\Debug\BL.pdb
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\BL.dll
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\BL.pdb
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\DS.dll
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\BL\bin\Debug\DS.pdb
+C:\Users\ofrenkel\Desktop\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\ofrenkel\Desktop\BL\obj\Debug\BL.dll
+C:\Users\ofrenkel\Desktop\BL\obj\Debug\BL.pdb
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\BL.dll
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\BL.pdb
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\DAL.dll
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\DS.dll
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\DAL.pdb
+C:\Users\hshamay\Desktop\0.1\BL\bin\Debug\DS.pdb
+C:\Users\hshamay\Desktop\0.1\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\0.1\BL\obj\Debug\BL.dll
+C:\Users\hshamay\Desktop\0.1\BL\obj\Debug\BL.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\BL.dll
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\BL.pdb
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\DAL.dll
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\DS.dll
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\DAL.pdb
+C:\Users\ofrenkel\Desktop\p\BL\bin\Debug\DS.pdb
+C:\Users\ofrenkel\Desktop\p\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\ofrenkel\Desktop\p\BL\obj\Debug\BL.dll
+C:\Users\ofrenkel\Desktop\p\BL\obj\Debug\BL.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BL\bin\Debug\GoogleMapsApi.dll

@@ -1,0 +1,69 @@
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\מה שאורית שלחה\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\מה שאורית שלחה\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\project\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\מחשבים הילה\project_c#_2433_9097\project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\project\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\שמאי\Desktop\project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\project\BE\bin\Debug\BE.dll
+C:\Users\שמאי\Desktop\project\BE\bin\Debug\BE.pdb
+C:\Users\שמאי\Desktop\project\BE\obj\Debug\BE.dll
+C:\Users\שמאי\Desktop\project\BE\obj\Debug\BE.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BE\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BE\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BE\obj\Debug\BE.dll
+C:\Users\אורית פרנקל\Documents\מכון טל\תשעח\מיני פרוייקט במערכות ח\PLWPF\BE\obj\Debug\BE.pdb
+C:\Users\hshamay\Desktop\New folder\BE\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\New folder\BE\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\New folder\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\New folder\BE\obj\Debug\BE.dll
+C:\Users\hshamay\Desktop\New folder\BE\obj\Debug\BE.pdb
+C:\Users\hshamay\Desktop\OLD\BE\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\OLD\BE\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\OLD\BE\obj\Debug\BE.dll
+C:\Users\hshamay\Desktop\OLD\BE\obj\Debug\BE.pdb
+C:\Users\hshamay\Desktop\BE\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\BE\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\BE\obj\Debug\BE.dll
+C:\Users\hshamay\Desktop\BE\obj\Debug\BE.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BE\bin\Debug\BE.dll
+C:\Users\שמאי\Desktop\פרוייקט\BE\bin\Debug\BE.pdb
+C:\Users\שמאי\Desktop\פרוייקט\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\שמאי\Desktop\פרוייקט\BE\obj\Debug\BE.dll
+C:\Users\שמאי\Desktop\פרוייקט\BE\obj\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BE\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BE\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BE\obj\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\חלק 2 מעודכן\BE\obj\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BE\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BE\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BE\obj\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 5\BE\obj\Debug\BE.pdb
+C:\Users\hshamay\Desktop\project\BE\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\project\BE\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\project\BE\obj\Debug\BE.dll
+C:\Users\hshamay\Desktop\project\BE\obj\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BE\bin\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BE\bin\Debug\BE.pdb
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BE\obj\Debug\BE.dll
+C:\Users\אורית פרנקל\Desktop\מיני פרוייקט במערכות ח\הילה 13\BE\obj\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\BE\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\BE\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\ofrenkel\Desktop\BE\obj\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\BE\obj\Debug\BE.pdb
+C:\Users\hshamay\Desktop\0.1\BE\bin\Debug\BE.dll
+C:\Users\hshamay\Desktop\0.1\BE\bin\Debug\BE.pdb
+C:\Users\hshamay\Desktop\0.1\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\hshamay\Desktop\0.1\BE\obj\Debug\BE.dll
+C:\Users\hshamay\Desktop\0.1\BE\obj\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\p\BE\bin\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\p\BE\bin\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\p\BE\obj\Debug\BE.dll
+C:\Users\ofrenkel\Desktop\p\BE\obj\Debug\BE.pdb
+C:\Users\ofrenkel\Desktop\p\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache

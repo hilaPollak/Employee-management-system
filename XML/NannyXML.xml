@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<nannies>
+  <nanny>
+    <Id>2433</Id>
+    <LastName>Shamay</LastName>
+    <Name>Hila</Name>
+    <DateOfBirth>1997-04-04T00:00:00</DateOfBirth>
+    <Phone>0503434343</Phone>
+    <Address>HaRav Uziel Jerusalem Israel</Address>
+    <Elevator>false</Elevator>
+    <Floor>1</Floor>
+    <Seniority>2</Seniority>
+    <NumOfChildren>2</NumOfChildren>
+    <MaxChildrens>3</MaxChildrens>
+    <MinMonthesAge>4</MinMonthesAge>
+    <MaxMonthesAge>30</MaxMonthesAge>
+    <SalaryByHour>false</SalaryByHour>
+    <SalaryForHour>130</SalaryForHour>
+    <SalaryForMonth>2000</SalaryForMonth>
+    <Tmt>true</Tmt>
+    <Recommendations></Recommendations>
+    <Password>1234</Password>
+    <CheckPassword>1234</CheckPassword>
+    <workDays>6,True,True,False,True,True,True</workDays>
+    <workHours>2,6,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00</workHours>
+  </nanny>
+  <nanny>
+    <Id>167</Id>
+    <LastName>Dalumi</LastName>
+    <Name>Roni</Name>
+    <DateOfBirth>1997-06-11T00:00:00</DateOfBirth>
+    <Phone>0535732453</Phone>
+    <Address>Yasmin,Kiryat Shmona,Israel</Address>
+    <Elevator>true</Elevator>
+    <Floor>3</Floor>
+    <Seniority>2</Seniority>
+    <NumOfChildren>4</NumOfChildren>
+    <MaxChildrens>6</MaxChildrens>
+    <MinMonthesAge>10</MinMonthesAge>
+    <MaxMonthesAge>31</MaxMonthesAge>
+    <SalaryByHour>true</SalaryByHour>
+    <SalaryForHour>40</SalaryForHour>
+    <SalaryForMonth>2000</SalaryForMonth>
+    <Tmt>false</Tmt>
+    <Recommendations></Recommendations>
+    <Password>1111</Password>
+    <CheckPassword>1111</CheckPassword>
+    <workDays>6,True,True,False,True,True,True</workDays>
+    <workHours>2,6,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 08:00:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00,01/01/2000 17:10:00</workHours>
+  </nanny>
+  <nanny>
+    <Id>2087</Id>
+    <LastName> Ben Zaken</LastName>
+    <Name>Eden</Name>
+    <DateOfBirth>1982-05-06T00:00:00</DateOfBirth>
+    <Phone>0504564564</Phone>
+    <Address>Aviv,Eilat,Israel</Address>
+    <Elevator>false</Elevator>
+    <Floor>3</Floor>
+    <Seniority>10</Seniority>
+    <NumOfChildren>6</NumOfChildren>
+    <MaxChildrens>10</MaxChildrens>
+    <MinMonthesAge>10</MinMonthesAge>
+    <MaxMonthesAge>46</MaxMonthesAge>
+    <SalaryByHour>true</SalaryByHour>
+    <SalaryForHour>70</SalaryForHour>
+    <SalaryForMonth>2000</SalaryForMonth>
+    <Tmt>false</Tmt>
+    <Recommendations></Recommendations>
+    <Password>shoshana</Password>
+    <CheckPassword>shoshana</CheckPassword>
+    <workDays>6,True,True,False,True,True,False</workDays>
+    <workHours>2,6,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/2000 09:00:00,01/01/2000 16:10:00,01/01/2000 16:10:00,01/01/2000 16:10:00,01/01/2000 16:10:00,01/01/2000 16:10:00,01/01/2000 16:10:00</workHours>
+  </nanny>
+</nannies>

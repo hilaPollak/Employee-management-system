@@ -1,0 +1,54 @@
+﻿<Window x:Class="PLWPF.ShowChildren"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Show Children" Height="400" Width="600">
+	<Border Background="SandyBrown">
+	<ScrollViewer>
+	<Grid Name="grid">
+
+        <Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+		<Label x:Name="label" FontSize="20" Content="Choose the condition for view:" HorizontalAlignment="Left" Grid.Row="0" Margin="89,0,0,0" VerticalAlignment="Top" Height="53" Grid.RowSpan="2" Width="326"/>
+
+		<Grid Name="labelsGrid" HorizontalAlignment="Center"  VerticalAlignment="Center" Grid.Row="2"  Margin="5" >
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+
+            <ComboBox x:Name="BySpacialNeeds" Margin="4" Grid.Column="0" VerticalAlignment="Top" Width="114" SelectionChanged="BySpacialNeeds_SelectionChanged"  Grid.Row="1"/>
+            <ComboBox x:Name="brothersbymother"   Margin="4" Grid.Column="1" VerticalAlignment="Top" Width="114" SelectionChanged="brothersbymother_SelectionChanged" Grid.Row="1"/>
+            <Button x:Name="withoutNanny"  Margin="4" Grid.Column="2" VerticalAlignment="Top" Width="113"  Content="Press here" Grid.Row="1" Click="withoutNanny_Click"/>
+            <Button x:Name="allchildren" Content="Press here" HorizontalAlignment="Left" Margin="4" Grid.Column="3" VerticalAlignment="Top" Width="114"  Click="allchildren_Click"  Grid.Row="1"/>
+            <Label x:Name="label1" Content="spacial needs"  Margin="2" VerticalAlignment="Top"/>
+            <Label x:Name="label2" Content="brothers by mother"   Grid.Column="1"  Margin="2" VerticalAlignment="Top"/>
+            <Label x:Name="label3" Content="without nanny"  Grid.Column="2"  Margin="2" VerticalAlignment="Top"/>
+            <Label x:Name="label4" Content="all children" Grid.Column="3" Margin="2" VerticalAlignment="Top"/>
+		</Grid>
+
+
+				<DataGrid x:Name="dataGrid" IsReadOnly="True" Grid.Row="3" VerticalAlignment="Top" Margin="10"/>
+
+				
+			</Grid>
+		</ScrollViewer>
+	</Border>
+</Window>

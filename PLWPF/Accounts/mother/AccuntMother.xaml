@@ -1,0 +1,32 @@
+﻿<Window x:Class="PLWPF.AccuntMother"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+           Title="Account Mother" Height="450" Width="525">
+	<Border Background="DeepPink">
+		<ScrollViewer>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="*"/>
+
+		</Grid.RowDefinitions>
+		<Button Name="Button1"   FontSize="30" Content="Get 5 Best Match Nannies"  Margin="10" Grid.Row="1"  Click="Button1_Click"/>
+		<Button  Name="Button2" FontSize="30" Content="Get All Wanted Nannies"   Margin="10" Grid.Row="2" Click="Button2_Click"/>
+                <Button  Name="Button3"  FontSize="30" Content="Close Nannies" Margin="10"  Grid.Row="3" Click="Button3_Click"/>
+		<Button  Name="Button4" FontSize="30" Content="All the contracts" Margin="10"  Grid.Row="4" Click="Button4_Click"/>
+
+
+
+		<TextBlock HorizontalAlignment="Left"  FontSize="20" Margin="12" TextWrapping="Wrap" Text="Hello, please choose one of the option below:" VerticalAlignment="Top" Grid.Row="0" Width="442"/>
+
+	</Grid>
+		</ScrollViewer>
+	</Border>
+</Window>

@@ -1,0 +1,485 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.addNanny"
+        mc:Ignorable="d"
+        Title="Add Nanny" Height="900" Width="750">
+
+	<Window.Resources>
+		<CollectionViewSource x:Key="nannyViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Nanny}, CreateList=True}"/>
+	</Window.Resources>
+    <Border Background="PapayaWhip">
+        <ScrollViewer >
+            <Grid x:Name="windowGrid" >
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid x:Name="NannyDetailsGrid" Grid.Row="0"  VerticalAlignment="Top" Margin="17,10,0,0" HorizontalAlignment="Left" Width="588"  >
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!--id-->
+                    <Label Content="Id:" 
+				Grid.Column="0" 
+				Style="{DynamicResource MyTextStyle}"
+				HorizontalAlignment="Left" 
+				Margin="3" Grid.Row="0" 
+				VerticalAlignment="Center"/>
+                    <TextBox x:Name="idTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="0" 
+					 Text="{Binding Id, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--name-->
+                    <Label Content="Name:" 
+				   Grid.Column="0" 
+				   Style="{DynamicResource MyTextStyle}"
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="1" 
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="nameTextBox" 
+					 Grid.Column="1" 
+					 Grid.Row="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3"  
+					 Text="{Binding Name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--last name-->
+                    <Label Content="Last Name:" 
+				   Grid.Column="0" 
+				   Style="{DynamicResource MyTextStyle}"
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="2"
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="lastNameTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="2" 
+					 Text="{Binding LastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--Date Of Birth-->
+                    <Label Content="Date Of Birth:" 
+					   Grid.Column="0" 
+						Style="{DynamicResource MyTextStyle}"
+					   HorizontalAlignment="Left" 
+					   Margin="3" 
+					   Grid.Row="3" 
+					   VerticalAlignment="Center"/>
+                    <DatePicker x:Name="dateOfBirthDatePicker" 
+						Grid.Column="1" 
+						HorizontalAlignment="Left" 
+						Margin="3" 
+						Grid.Row="3" 
+						SelectedDate="{Binding DateOfBirth}" 
+						VerticalAlignment="Center"/>
+
+                    <!--Phone-->
+                    <Label Content="Phone:" 
+				   Grid.Column="0" 
+				   Style="{DynamicResource MyTextStyle}"
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="4" 
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="phoneTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="4" 
+					 Text="{Binding Phone, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--Address-->
+                    <Label Content="Address:" 
+					   Grid.Column="0" 
+					   HorizontalAlignment="Left" 
+					   Margin="3" 
+					   Grid.Row="5" 
+				   Style="{DynamicResource MyTextStyle}"
+					   VerticalAlignment="Center"/>
+                    <TextBox x:Name="addressTextBox" 
+						 Grid.Column="1" 
+						 HorizontalAlignment="Left" 
+						 Height="23" 
+						 Margin="3" 
+						 Grid.Row="5" 
+						 Text="{Binding Address, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+						 VerticalAlignment="Center" 
+						 Width="120"/>
+
+                    <!--Elevator-->
+                    <Label Content="Elevator:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="6" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <CheckBox x:Name="elevatorCheckBox" 
+						  Content="" 
+						  Grid.Column="1" 
+						  HorizontalAlignment="Left" 
+						  IsChecked="{Binding Elevator, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"
+						  Margin="3" 
+						  Grid.Row="6" />
+
+                    <!--Floor-->
+                    <Label Content="Floor:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Style="{DynamicResource MyTextStyle}"
+				   Grid.Row="7" 
+				   VerticalAlignment="Center"/>
+                    <ComboBox x:Name="floorComboBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="7" 
+					 Text="{Binding Floor, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" 
+					 VerticalAlignment="Center"
+					 Width="120">
+                        <ListBoxItem Content="0"/>
+                        <ListBoxItem Content="1"/>
+                        <ListBoxItem Content="2"/>
+                        <ListBoxItem Content="3"/>
+                        <ListBoxItem Content="4"/>
+                        <ListBoxItem Content="5"/>
+                        <ListBoxItem Content="6"/>
+                        <ListBoxItem Content="7"/>
+                        <ListBoxItem Content="8"/>
+                        <ListBoxItem Content="9"/>
+                        <ListBoxItem Content="10"/>
+                        <ListBoxItem Content="11"/>
+                        <ListBoxItem Content="12"/>
+                        <ListBoxItem Content="13"/>
+                        <ListBoxItem Content="14"/>
+                        <ListBoxItem Content="15"/>
+                        <ListBoxItem Content="16"/>
+                        <ListBoxItem Content="17"/>
+                        <ListBoxItem Content="18"/>
+                    </ComboBox>
+
+                    <!--Seniority-->
+                    <Label Content="Seniority:" 
+				   Grid.Column="0"
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="8" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="seniorityTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="8" 
+					 Text="{Binding Seniority, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--Num Of Children-->
+                    <Label Content="Num Of Children:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				    Margin="3" 
+				   Grid.Row="9" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="numOfChildrenTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="9" 
+					 Text="{Binding NumOfChildren, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" 
+					 VerticalAlignment="Center"
+					 Width="120"/>
+
+                    <!--Max Childrens-->
+                    <Label Content="Max Childrens:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="10" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="maxChildrensTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" Margin="3" 
+					 Grid.Row="10" 
+					 Text="{Binding MaxChildrens, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--Min Month Age-->
+                    <Label Content="Min Month Age:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="11" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <ComboBox x:Name="minMonthesAgeComboBox" 
+					  
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" Margin="3" 
+					 Grid.Row="11" 
+					 Text="{Binding MinMonthesAge, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120">
+                        <ListBoxItem Content="3"/>
+                        <ListBoxItem Content="4"/>
+                        <ListBoxItem Content="5"/>
+                        <ListBoxItem Content="6"/>
+                        <ListBoxItem Content="7"/>
+                        <ListBoxItem Content="8"/>
+                        <ListBoxItem Content="9"/>
+                        <ListBoxItem Content="10"/>
+                        <ListBoxItem Content="11"/>
+                        <ListBoxItem Content="12"/>
+                        <ListBoxItem Content="13"/>
+                        <ListBoxItem Content="14"/>
+                        <ListBoxItem Content="15"/>
+                        <ListBoxItem Content="16"/>
+                        <ListBoxItem Content="17"/>
+                        <ListBoxItem Content="18"/>
+                    </ComboBox>
+
+                    <!--Max Monthes Age-->
+                    <Label Content="Max Monthes Age:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="12" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <ComboBox x:Name="maxMonthesAgeComboBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="12" 
+					 Text="{Binding MaxMonthesAge, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120">
+                        <ListBoxItem Content="12"/>
+                        <ListBoxItem Content="13"/>
+                        <ListBoxItem Content="14"/>
+                        <ListBoxItem Content="15"/>
+                        <ListBoxItem Content="16"/>
+                        <ListBoxItem Content="17"/>
+                        <ListBoxItem Content="18"/>
+                        <ListBoxItem Content="19"/>
+                        <ListBoxItem Content="20"/>
+                        <ListBoxItem Content="21"/>
+                        <ListBoxItem Content="22"/>
+                        <ListBoxItem Content="23"/>
+                        <ListBoxItem Content="24"/>
+                        <ListBoxItem Content="25"/>
+                        <ListBoxItem Content="26"/>
+                        <ListBoxItem Content="27"/>
+                        <ListBoxItem Content="28"/>
+                        <ListBoxItem Content="29"/>
+                        <ListBoxItem Content="30"/>
+                        <ListBoxItem Content="31"/>
+                        <ListBoxItem Content="32"/>
+                        <ListBoxItem Content="33"/>
+                        <ListBoxItem Content="34"/>
+                        <ListBoxItem Content="35"/>
+                        <ListBoxItem Content="36"/>
+                    </ComboBox>
+
+                    <local:AvaTable x:Name="hours" Grid.Row="13" Grid.ColumnSpan="2" />
+
+                    <!--Salary By Hour-->
+                    <Label Content="Salary By Hour:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left"
+				   Margin="3" 
+				   Grid.Row="14" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <CheckBox x:Name="salaryByHourCheckBox" 
+					  Content="" Grid.Column="1" 
+					  HorizontalAlignment="Left" 
+					  IsChecked="{Binding SalaryByHour, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" 
+					  Margin="3" 
+					  Grid.Row="14" 
+					  VerticalAlignment="Center"/>
+
+                    <!--Salary For Hour-->
+                    <Label Content="Salary For Hour:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Style="{DynamicResource MyTextStyle}"
+				   Grid.Row="15" 
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="salaryForHourTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="15" 
+					 Text="{Binding SalaryForHour, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--Salary For Month-->
+                    <Label Content="Salary For Month:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="16" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="salaryForMonthTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="16" 
+					 Text="{Binding SalaryForMonth, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--Tmt-->
+                    <Label Content="Tmt:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left"
+				   Margin="3" 
+				   Grid.Row="17" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <CheckBox x:Name="tmtCheckBox" 
+					  Content="" 
+					  Grid.Column="1" 
+					  HorizontalAlignment="Left" 
+					  IsChecked="{Binding Tmt, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" 
+					  Margin="3" 
+					  Grid.Row="17" 
+					  VerticalAlignment="Center"/>
+
+                    <!--Recommendations-->
+                    <Label Content="Recommendations:" 
+				   Grid.Column="0" 
+				   HorizontalAlignment="Left" 
+				   Margin="3" 
+				   Grid.Row="18" 
+				   Style="{DynamicResource MyTextStyle}"
+				   VerticalAlignment="Center"/>
+                    <TextBox x:Name="recommendationsTextBox" 
+					 Grid.Column="1" 
+					 HorizontalAlignment="Left" 
+					 Height="23" 
+					 Margin="3" 
+					 Grid.Row="18" 
+					 Text="{Binding Recommendations, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+                    <!--Password-->
+                    <Label Content="Password:" 
+					   Grid.Column="0" 
+					   HorizontalAlignment="Left" 
+					   Margin="3" 
+				   Style="{DynamicResource MyTextStyle}"
+					   Grid.Row="19" 
+					   VerticalAlignment="Center"/>
+                    <TextBox x:Name="passwordTextBox" 
+						 Grid.Column="1" 
+						 HorizontalAlignment="Left" 
+						 Height="23" 
+						 Margin="3" 
+						 Grid.Row="19" 
+						 Text="{Binding Password, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+						 VerticalAlignment="Center" 
+						 Width="120"/>
+
+                    <!--Check Password-->
+                    <Label Content="Check Password:" 
+					   Grid.Column="0" 
+					   HorizontalAlignment="Left" 
+					   Margin="3" 
+				   Style="{DynamicResource MyTextStyle}"
+					   Grid.Row="20" 
+					   VerticalAlignment="Center"/>
+                    <TextBox x:Name="checkPasswordTextBox" 
+						 Grid.Column="1" 
+						 HorizontalAlignment="Left" 
+						 Height="23" 
+						 Margin="3" 
+						 Grid.Row="20" 
+						 Text="{Binding CheckPassword, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=Explicit}" 
+					 VerticalAlignment="Center" 
+					 Width="120"/>
+
+
+
+
+
+                </Grid>
+                <Button x:Name="add_button" 
+				Content="add"  
+				Click="add_button_Click" 
+				Margin="30,10" 
+				Grid.Row="1"/>
+            </Grid>
+        </ScrollViewer >
+    </Border>
+</Window>
